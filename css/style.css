@@ -1,0 +1,13 @@
+*{margin:0 ;padding: 0;box-sizing: border-box;}
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 50vh;
+  }
+.abt {
+  border-bottom-style: dashed;
+  border-color:#101111;
+  border-width: 5pt;
+}
+
